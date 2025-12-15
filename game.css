@@ -1,0 +1,27 @@
+body {
+        margin: 0;
+        background-color: black;   
+}
+#loadBtn {
+        padding: 12px 24px;
+        font-size: 18px;
+        cursor: pointer;
+        justify-content: center;    /* 縦方向中央 */
+        height: 40px;
+        background-color: blue;
+}
+.active-option {
+        color: red;
+}
+#newBtn {
+        padding: 12px 24px;
+        font-size: 18px;
+        cursor: pointer;
+        justify-content: center;    /* 縦方向中央 */
+        height: 40px;
+        background-color: blue;
+}
+#dark_world {
+        font-size: 90px;
+        color: blue;
+}
